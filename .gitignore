@@ -1,0 +1,13 @@
+# Binaries
+uptimer
+*.exe
+
+# Go test/coverage
+*.test
+*.out
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/

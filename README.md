@@ -10,4 +10,4 @@ Work in progress
 - REST API to manage monitoired targets
 - Persistent storage of checks history 
 - CLI to add/check targets
-- Webhook alerst on status change
+- Webhook alert on status change 
